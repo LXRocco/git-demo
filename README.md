@@ -29,5 +29,8 @@ git 的简单学习，主要介绍git安装和简单的配置，包括github和g
 
 ![avatar](./img/idea gitee 01.png)
 
+* 重启 idea 然后配置账户
+
+![avatar](./img/idea_gitee_02.png)
 
 ####  更多详情请参考：https://git-scm.com/doc   和  https://gitee.com/all-about-git
