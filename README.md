@@ -23,4 +23,11 @@ git 的简单学习，主要介绍git安装和简单的配置，包括github和g
 * 将 C:\Users\LX\.ssh\id_rsa.pub 里的公钥 配置在github/gitee对应的ssh key中即可。
 * ## **注意：id_rsa 文件是私钥** 
 
-####  更多详情请参考：https://git-scm.com/doc
+
+####  idea配置 gitee   https://gitee.com/all-about-git
+* 安装gitee插件
+
+![avatar](img/idea gitee 01.png)
+
+
+####  更多详情请参考：https://git-scm.com/doc   和  https://gitee.com/all-about-git
